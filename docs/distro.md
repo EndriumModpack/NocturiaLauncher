@@ -9,22 +9,22 @@ The distribution index is written in JSON. The general format of the index is as
     "version": "1.0.0",
     "discord": {
         "clientId": "12334567890123456789",
-        "smallImageText": "WesterosCraft",
+        "smallImageText": "Nocturia",
         "smallImageKey": "seal-circle"
     },
     "rss": "https://westeroscraft.com/articles/index.rss",
     "servers": [
         {
             "id": "Example_Server",
-            "name": "WesterosCraft Example Client",
-            "description": "Example WesterosCraft server. Connect for fun!",
+            "name": "Nocturiat Client",
+            "description": "Jouer à Nocturia pour le Fun!",
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/example_icon.png",
             "version": "0.0.1",
-            "address": "mc.westeroscraft.com:1337",
+            "address": "play.funcraft.net",
             "minecraftVersion": "1.11.2",
             "discord": {
                 "shortId": "Example",
-                "largeImageText": "WesterosCraft Example Server",
+                "largeImageText": "Nocturia",
                 "largeImageKey": "server-example"
             },
             "mainServer": true,
